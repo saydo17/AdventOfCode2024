@@ -1,0 +1,15 @@
+C:\Users\saydo\Desktop\AdventOfCode\day1\puzzle1\aoc-d1-p2\obj\Debug\net8.0\aoc-d1-p2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saydo\Desktop\AdventOfCode\day1\puzzle1\aoc-d1-p2\obj\Debug\net8.0\aoc-d1-p2.AssemblyInfoInputs.cache
+C:\Users\saydo\Desktop\AdventOfCode\day1\puzzle1\aoc-d1-p2\obj\Debug\net8.0\aoc-d1-p2.AssemblyInfo.cs
+C:\Users\saydo\Desktop\AdventOfCode\day1\puzzle1\aoc-d1-p2\obj\Debug\net8.0\aoc-d1-p2.csproj.CoreCompileInputs.cache
+C:\Users\saydo\Desktop\AdventOfCode\day1\puzzle1\aoc-d1-p2\obj\Debug\net8.0\aoc-d1-p2.sourcelink.json
+C:\Users\saydo\Desktop\AdventOfCode\day1\puzzle1\aoc-d1-p2\bin\Debug\net8.0\aoc-d1-p2.exe
+C:\Users\saydo\Desktop\AdventOfCode\day1\puzzle1\aoc-d1-p2\bin\Debug\net8.0\aoc-d1-p2.deps.json
+C:\Users\saydo\Desktop\AdventOfCode\day1\puzzle1\aoc-d1-p2\bin\Debug\net8.0\aoc-d1-p2.runtimeconfig.json
+C:\Users\saydo\Desktop\AdventOfCode\day1\puzzle1\aoc-d1-p2\bin\Debug\net8.0\aoc-d1-p2.dll
+C:\Users\saydo\Desktop\AdventOfCode\day1\puzzle1\aoc-d1-p2\bin\Debug\net8.0\aoc-d1-p2.pdb
+C:\Users\saydo\Desktop\AdventOfCode\day1\puzzle1\aoc-d1-p2\obj\Debug\net8.0\aoc-d1-p2.dll
+C:\Users\saydo\Desktop\AdventOfCode\day1\puzzle1\aoc-d1-p2\obj\Debug\net8.0\refint\aoc-d1-p2.dll
+C:\Users\saydo\Desktop\AdventOfCode\day1\puzzle1\aoc-d1-p2\obj\Debug\net8.0\aoc-d1-p2.pdb
+C:\Users\saydo\Desktop\AdventOfCode\day1\puzzle1\aoc-d1-p2\obj\Debug\net8.0\aoc-d1-p2.genruntimeconfig.cache
+C:\Users\saydo\Desktop\AdventOfCode\day1\puzzle1\aoc-d1-p2\obj\Debug\net8.0\ref\aoc-d1-p2.dll

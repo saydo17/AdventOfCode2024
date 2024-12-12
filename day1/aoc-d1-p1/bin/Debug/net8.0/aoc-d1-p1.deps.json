@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "aoc-d1-p1/1.0.0": {
+        "runtime": {
+          "aoc-d1-p1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aoc-d1-p1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
